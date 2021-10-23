@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @srehfuss
-- 👀 I’m interested in Windows and Network System Administration 
-- 🌱 I’m currently learning Teraform.
-- 💞️ I’m looking to collaborate on system admin automation in a Hybrid Microsoft Azure and VMware environment.
-- 📫 How to reach me ...
+- 👋 Hi!
+
 
 <!---
 srehfuss/srehfuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
